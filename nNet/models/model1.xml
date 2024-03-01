@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<layer_neuron_num>
+  3 2 2</layer_neuron_num>
+<activation_type>ReluAT</activation_type>
+<learning_rate>1.9999999552965164e-02</learning_rate>
+<weight_0 type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    2.45011881e-01 3.72505993e-01 -9.97623429e-03 2.45011881e-01
+    3.72505993e-01 -9.97623429e-03</data></weight_0>
+<weight_1 type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>2</cols>
+  <dt>f</dt>
+  <data>
+    2.91143954e-01 2.91143954e-01 5.23973629e-02 5.23973629e-02</data></weight_1>
+<bias_0 type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    -6.37470111e-02 -6.37470111e-02</data></bias_0>
+<bias_1 type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    7.91096985e-02 -1.99999973e-01</data></bias_1>
+</opencv_storage>
